@@ -6,3 +6,4 @@ Task: Design a robot that implements two functions, attack and defend. The robot
 
 System Flow Chart:
 
+![System Diagram](https://user-images.githubusercontent.com/32466509/67135168-eb0f5980-f1e4-11e9-83d6-715e678ca515.png)

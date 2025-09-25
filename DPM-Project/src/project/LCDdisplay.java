@@ -2,11 +2,7 @@ package project;
 
 import lejos.hardware.lcd.TextLCD;
 
-/**
- * <h1>LCDdisplay</h1>
- * @author Owais
- *
- */
+
 public class LCDdisplay extends Thread 
 {
 	private static final long DISPLAY_PERIOD=25;
@@ -130,3 +126,4 @@ public class LCDdisplay extends Thread
 
 	}
 }
+

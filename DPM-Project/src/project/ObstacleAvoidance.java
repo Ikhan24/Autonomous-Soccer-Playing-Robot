@@ -1,10 +1,5 @@
 package project;
 
-/**
- * <h1>ObstacleAvoidance</h1>
- * @author Owais
- *
- */
 public class ObstacleAvoidance 
 {
 	private USpoller uspoller;
@@ -28,3 +23,4 @@ public class ObstacleAvoidance
 		return isObs;
 	}
 }
+

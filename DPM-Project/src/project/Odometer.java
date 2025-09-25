@@ -2,11 +2,6 @@ package project;
 
 import lejos.hardware.motor.EV3LargeRegulatedMotor;
 
-/**
- * <h1>Odometer</h1>
- * @author Owais
- *
- */
 public class Odometer extends Thread
 {
 	private static final long ODOMETER_PERIOD=25;
@@ -247,3 +242,4 @@ public class Odometer extends Thread
 		}
 	}
 }
+

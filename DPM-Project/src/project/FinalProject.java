@@ -8,13 +8,7 @@ import lejos.hardware.sensor.EV3UltrasonicSensor;
 import lejos.hardware.sensor.SensorModes;
 import lejos.robotics.SampleProvider;
 
-/**
- * <h1>FinalProject</h1>
- * This class contains the main method of the project
- * that instantiates all objects and initiates operation.
- * @author Owais
- *
- */
+
 public class FinalProject 
 {
 	private static final Port lsPort1 = LocalEV3.get().getPort("S1");
@@ -54,3 +48,4 @@ public class FinalProject
 	}
 
 }
+

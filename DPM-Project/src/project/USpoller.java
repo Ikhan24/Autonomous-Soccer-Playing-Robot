@@ -2,11 +2,6 @@ package project;
 
 import lejos.robotics.SampleProvider;
 
-/**
- * <h1>USpoller</h1>
- * @author Owais
- *
- */
 public class USpoller extends Thread
 {
 	private SampleProvider us;
@@ -35,3 +30,4 @@ public class USpoller extends Thread
 		return distance;
 	}
 }
+

@@ -2,11 +2,6 @@ package project;
 
 import lejos.hardware.motor.EV3LargeRegulatedMotor;
 
-/**
- * <h1>Naviagtion</h1>
- * @author Owais
- *
- */
 public class Navigation 
 {
 	private Odometer odometer;
@@ -264,3 +259,4 @@ public class Navigation
 		return (radian*180)/Math.PI;
 	}
 }
+

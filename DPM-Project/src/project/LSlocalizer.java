@@ -1,10 +1,5 @@
 package project;
 
-/**
- * <h1>LSlocalizer</h1>
- * @author Owais
- *
- */
 public class LSlocalizer 
 {
 	private Odometer odometer;
@@ -128,3 +123,4 @@ public class LSlocalizer
 		return isLine;
 	}
 }
+

@@ -1,10 +1,6 @@
 package project;
 
-/**
- * <h1>OdometerCorrection</h1>
- * @author Owais
- *
- */
+
 public class OdometerCorrection extends Thread
 {
 	private LSpoller lspollerleft;
@@ -48,3 +44,4 @@ public class OdometerCorrection extends Thread
 	}
 	
 }
+

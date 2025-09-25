@@ -2,11 +2,7 @@ package project;
 
 import lejos.hardware.Sound;
 
-/**
- * <h1>USlocalizer</h1>
- * @author Owais
- *
- */
+
 public class USlocalizer
 {
 	private Odometer odometer;
@@ -158,3 +154,4 @@ public class USlocalizer
 		}
 	}
 }
+
